@@ -1,0 +1,1 @@
+# 3-grupa-guntis-laicans-terraform-project
